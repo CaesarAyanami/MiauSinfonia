@@ -478,7 +478,7 @@ footer div.info-cancion div.imageM img {
     footer div.barra-progreso input,
     footer div.volumen input
     {
-        width: 85%;
+        width: 80%;
     }
 
     /*parametro nuevo del Span de reproductor*/
